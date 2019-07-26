@@ -12,3 +12,6 @@ Changing Subtasks:
 Perform the following Changes to run different subtasks
   1. Change X,y= DataPreprocessing(data_q) replace 'q' with the subtask required
   2. Change the test_filename if performing submission prediction
+
+Detatiled System Description:
+https://www.aclweb.org/anthology/papers/S/S19/S19-2124/
