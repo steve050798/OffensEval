@@ -1,2 +1,14 @@
-# OffensEval
-System Submission for SemEval Task 6: OffensEval 2019
+# NIT_Agartala_NLP_Team at SemEval-2019 Task 6 
+System Submission for SemEval Task 6: OffensEval 2019 (https://competitions.codalab.org/competitions/20011)
+
+Abstract:
+Developed an Ensemble Approach (Vote based) Classifier for Offensive Language detection trained on the OLID dataset (https://scholar.harvard.edu/malmasi/olid). Also includes a simple LSTM network to compare performance with DLL methods
+
+Resources Required:
+  1. CMU POS Tagger (http://www.cs.cmu.edu/~ark/TweetNLP/)
+  2. OLID Training Data (https://scholar.harvard.edu/malmasi/olid)
+
+Changing Subtasks:
+Perform the following Changes to run different subtasks
+  1. Change X,y= DataPreprocessing(data_q) replace 'q' with the subtask required
+  2. Change the test_filename if performing submission prediction
