@@ -6,12 +6,16 @@ Developed an Ensemble Approach (Vote based) Classifier for Offensive Language de
 
 Files:
   1. proto.py - Ensemble model approach
-  2. LSTM.ipynb - Deep Learning Approach
+  2. LSTM.ipynb - Deep Learning Approach (Rudimentary Model)
   
 Resources Required:
   1. CMU POS Tagger (http://www.cs.cmu.edu/~ark/TweetNLP/)
   2. OLID Training Data (https://scholar.harvard.edu/malmasi/olid)
   3. GLoVe Embeddings (Current Version uses the Twitter, 2B tweets, 27B tokens, 1.2M vocab, uncased, 25d, 50d, 100d, & 200d vector variant)for LSTM (https://nlp.stanford.edu/projects/glove/)
+
+Getting the code Ready:
+1. Set the global variables filename and test_filename to your dataset paths
+2. 
 
 Changing Subtasks:
 Perform the following Changes to run different subtasks
