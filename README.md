@@ -15,7 +15,7 @@ Resources Required:
 
 Getting the code Ready:
 1. Set the global variables filename and test_filename to your dataset paths
-2. 
+2. Download ark tweet nlp and extract into the code location (https://bit.ly/33x2WJT) also download the python wrapper (https://github.com/ianozsvald/ark-tweet-nlp-python/blob/master/CMUTweetTagger.py) (Used as library) 
 
 Changing Subtasks:
 Perform the following Changes to run different subtasks
