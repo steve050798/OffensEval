@@ -19,7 +19,7 @@ Getting the code Ready:
 
 Changing Subtasks/Running the code:
 Use the terminal command: 
-# python3 proto.py q 
+**python3 proto.py q**
 Replace q: a,b,c (to run the different subtasks)
 
 Change the test_filename if performing submission prediction
