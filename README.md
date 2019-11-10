@@ -18,10 +18,11 @@ Getting the code Ready:
 2. Download ark tweet nlp and extract into the code location (https://bit.ly/33x2WJT) also download the python wrapper (https://github.com/ianozsvald/ark-tweet-nlp-python/blob/master/CMUTweetTagger.py) (Used as library) 
 
 Changing Subtasks/Running the code:
-Perform the following Changes to run different subtasks
-  1. Use the terminal command: # python3 proto.py q
-     Replace q: a,b,c (to run the different subtasks)
-  2. Change the test_filename if performing submission prediction
+Use the terminal command: 
+# python3 proto.py q 
+Replace q: a,b,c (to run the different subtasks)
+
+Change the test_filename if performing submission prediction
 
 Detatiled System Description:
 https://www.aclweb.org/anthology/papers/S/S19/S19-2124/
